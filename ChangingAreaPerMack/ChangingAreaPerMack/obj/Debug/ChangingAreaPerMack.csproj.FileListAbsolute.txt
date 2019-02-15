@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\bin\Debug\ChangingAreaPerMack.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\bin\Debug\ChangingAreaPerMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\bin\Debug\ChangingAreaPerMack.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.frmChangingAreaPer.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\ChangingAreaPerMack\ChangingAreaPerMack\obj\Debug\ChangingAreaPerMack.pdb

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.MovingCatForm.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\bin\Debug\MovingCatMackenzie.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\bin\Debug\MovingCatMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\bin\Debug\MovingCatMackenzie.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\MovingCatMackenzie\MovingCatMackenzie\obj\Debug\MovingCatMackenzie.pdb
